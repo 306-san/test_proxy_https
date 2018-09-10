@@ -1,6 +1,6 @@
-How to Use
-Please install docker
-Please Configure nustart.cfg for ngrok_url
+## How to Use
+- Please install docker
+- Please Configure nustart.cfg for API server ngrok_url
 ```bash
 cd here
 (fish)
